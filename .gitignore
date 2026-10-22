@@ -1,0 +1,8 @@
+/build/
+/release/
+/.vs/
+*.pdb
+*.user
+*.suo
+/tests/.tmp/
+/tests/.artifacts/
